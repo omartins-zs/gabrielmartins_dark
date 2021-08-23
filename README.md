@@ -4,7 +4,7 @@
 
 ### -  Clique em Github Pages Active🚀 ->
 ### -  Clique em View Deployment no (1° Botão)
-### -  Ou clique aqui e acesse o [Portfólio](https://omartins-zs.github.io/gabriel_portfolio/)
+### -  Ou clique aqui e acesse o [Currículo/Portfólio](https://omartins-zs.github.io/gabrielmartins_dark/)
  </div><br>
  
 
