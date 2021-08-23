@@ -1,3 +1,5 @@
+# Instruções para acessar meu Currículo/Portfólio➡️
+
 <div>
 
 ### -  Clique em Github Pages Active🚀 ->
@@ -8,7 +10,15 @@
 
   <div style="display: inline_block">
  
-### Currículo ➡️
+## Currículo ➡️
+ 
+ ### Linguagens Utlizadas para fazer o Currículo e Readme:
+  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+
+  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+ <!--  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">-->
 
  
  
